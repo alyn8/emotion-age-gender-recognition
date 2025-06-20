@@ -1,4 +1,4 @@
-# emotion-age-gender-recognition
+
 # 👤 Real-Time Emotion, Age, and Gender Recognition with CNNs
 
 This project presents a Flask-based web application capable of recognizing **emotion**, **age**, and **gender** from human faces using **Convolutional Neural Networks (CNNs)**. It supports real-time webcam input, image upload, and video file analysis. The trained models are deployed via an intuitive web interface, making it practical for human-computer interaction scenarios.
