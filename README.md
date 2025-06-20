@@ -40,6 +40,7 @@ Three separate CNN models were developed for:
 ## 🚀 How to Run
 
 ```bash
+
 # 1. Clone the repo
 git clone https://github.com/yourusername/emotion-age-gender-flask-app.git
 cd emotion-age-gender-flask-app
@@ -50,37 +51,7 @@ pip install -r requirements.txt
 # 3. Run the app
 python app.py
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 ## 📁 Project Structure
 
