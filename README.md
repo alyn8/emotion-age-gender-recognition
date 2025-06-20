@@ -39,37 +39,3 @@ Three separate CNN models were developed for:
 
 (*Note: Direct model links or download instructions can be added in `models/README.md`*)
 
-## 🚀 How to Run
-
-```bash
-
-# 1. Clone the repo
-git clone https://github.com/yourusername/emotion-age-gender-flask-app.git
-cd emotion-age-gender-flask-app
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-python app.py
-
-```
-
-## 📁 Project Structure
-
-├── app.py
-├── static/
-│ └── (CSS, images, icons)
-├── templates/
-│ ├── index.html
-│ ├── photo.html
-│ ├── video.html
-│ ├── webcam.html
-├── models/
-│ └── (Optional local placeholder or download script)
-├── utils/
-│ └── haarcascade_frontalface_default.xml
-├── output_samples/
-│ └── example_photos/
-│ └── example_videos/
-├── README.md
