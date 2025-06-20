@@ -6,6 +6,8 @@ This project presents a Flask-based web application capable of recognizing **emo
 🌐 Features
 Real-time webcam inference
 
+
+
 Image and video upload support
 
 Visual feedback with bounding boxes
