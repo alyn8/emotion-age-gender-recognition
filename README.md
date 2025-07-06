@@ -117,8 +117,11 @@ All three models are integrated into a single web interface using Flask. The int
 
 ### 🖼 Output Example:
 Prediction:
-Emotion: Happy
-Gender: Female
+
+Emotion: Happy,
+
+Gender: Female,
+
 Age: 24
 
 
