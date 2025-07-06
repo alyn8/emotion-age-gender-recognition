@@ -148,11 +148,7 @@ Age: 24
 
 ---
 
-## 🔗 Project Demo & Repository
 
-📁 _Demo videos, screenshots, and source code will be added here._
-
----
 
 ## 📸 System Interface Preview
 
