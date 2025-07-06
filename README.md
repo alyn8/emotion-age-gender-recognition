@@ -172,12 +172,6 @@ Age: 24
 
 ![Webcam Detection](images/webcam_detection.png)
 
-### 📊 Sample Output
-
-![Sample Output](images/output_example.png)
-
-
-
 
 
 (*Note: Direct model links or download instructions can be added in `models/README.md`*)
